@@ -1,0 +1,7 @@
+
+Danh Sach Hang Hoa :
+
+| Ten Hang Hoa                   | Loai Hang Hoa   | So Luong        |
+| banh my                        | 1               | 12              |
+| banh my                        | 2               | 10              |
+| uc ga                          | 1               | 10              |
