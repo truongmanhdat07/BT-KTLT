@@ -12,7 +12,7 @@ int main(){
 	}
 	printf("\nNoi dung cua file %s la :\n\n",tenfile);
 	char temp[1000];
-	while( fgets ( temp , sizeof(temp) , f ) ){
+	while( fgets ( temp , sizeof(temp) , f )!=NULL ){
 		printf("%s",temp);
 	}
 	printf("\n\nDa doc het file %s",tenfile);
