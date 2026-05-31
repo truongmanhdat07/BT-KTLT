@@ -1,72 +1,26 @@
-# Bài tập lớn - Kỹ thuật lập trình (KTLT)
+# Bài Tập Lớn - Kỹ Thuật Lập Trình (KTLT) - Nhóm 1
 
-## Giới thiệu
-Repository lưu các bài tập và bài tập lớn môn Kỹ thuật lập trình viết bằng ngôn ngữ C.
+## 📌 Giới thiệu
+Repository lưu trữ mã nguồn Bài tập lớn môn Kỹ thuật lập trình (ngôn ngữ C).
+Dự án được tổ chức cấu trúc phân cấp chuyên nghiệp, mã nguồn mỗi bài được chia thành các module độc lập giúp mã nguồn rõ ràng và dễ bảo trì:
+- `main.c` (Tệp điều khiển chính)
+- `[Tên_bài].c` (Source file chứa logic)
+- `[Tên_bài].h` (Header file chứa khai báo)
 
-Các bài được tổ chức theo dạng module:
-- `main.c`
-- `.c`
-- `.h`
+## 👥 Phân công nhiệm vụ
+- **Đạt** : E2, F2, F7, Menu Tổng (Trình khởi chạy)
+- **Hải** : F4, F8
+- **Khánh** : E1, F3, F5
+- **Dũng** : E4, E5
+- **Đô** : E3, F6
 
----
-
-## Cấu trúc repository
+## 📂 Cấu trúc Repository
 
 ```text
-BTL/
-├── E1/
-├── E2/
-├── E3/
-├── ...
-├── F1/
-├── F2/
-├── F3/
-├── ...
-└── README.md
-```
-
----
-
-## Nội dung
-
-Mỗi thư mục chứa:
-- Source code
-- Header file
-- File project Dev-C++
-- Các chức năng riêng của từng bài
-
----
-
-## Kiến thức sử dụng
-
-- Function
-- Pointer
-- Struct
-- File handling
-- Modular programming
-- Header file
-- Tổ chức chương trình nhiều file
-
----
-
-## Mục tiêu
-
-- Rèn luyện tư duy lập trình
-- Làm quen với cách tổ chức project
-- Viết code rõ ràng và dễ bảo trì
-
----
-
-## Cách chạy
-
-### Dev-C++
-Mở file `.dev` rồi chọn:
-- Compile
-- Run
-
-### GCC
-
-```bash
-gcc main.c function.c -o program
-./program
-```
+BTL-KTLT-Nhom1/
+├── E1/ ... E5/         (Nhóm bài tập thao tác với Danh sách liên kết & Mảng)
+├── F2/ ... F8/         (Nhóm bài tập thao tác trên Tệp tin)
+├── MenuTong_NangCao    (Menu tương tác bằng phím mũi tên)
+├── MenuTong_TieuChuan  (Menu tiêu chuẩn nhập số)
+├── BaiTap-KTLT.pdf     (Đề bài chi tiết)
+└── README.md           (Tài liệu hướng dẫn)
