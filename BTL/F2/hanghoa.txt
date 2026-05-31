@@ -1,0 +1,5 @@
+
+Danh Sach Hang Hoa :
+
+| Ten Hang Hoa                   | Loai Hang Hoa   | So Luong        |
+| hoa hong                       | 1               | 3               |
