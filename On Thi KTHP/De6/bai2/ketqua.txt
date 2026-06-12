@@ -1,0 +1,7 @@
+
+| STT   | Ma San Pham  | Ten San Pham                   | So Luong     | Gia          |
+| 1     | NS03         | Hat dieu rang muoi             | 200          | 250.00       |
+| 2     | NS01         | Gao ST25                       | 100          | 35.50        |
+| 3     | NS05         | Thanh long ruot do             | 100          | 15.00        |
+| 4     | NS04         | Tieu den                       | 80           | 90.50        |
+| 5     | NS02         | Ca phe Trung Nguyen            | 50           | 120.00       |
