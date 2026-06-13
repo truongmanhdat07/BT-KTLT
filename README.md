@@ -56,7 +56,7 @@ Chương trình quản lý tích hợp các cấu trúc dữ liệu và thao tá
 ## 🚀 Cách chạy
 
 1. Mở file `.dev` bằng **Dev-C++**
-2. Nhấn **F9** để Compile & Run
+2. Nhấn **F11** để Compile & Run
 3. Hoặc compile thủ công bằng GCC:
 
 ```bash
