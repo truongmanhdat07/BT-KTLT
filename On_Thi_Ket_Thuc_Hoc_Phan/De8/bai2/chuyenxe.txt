@@ -1,0 +1,13 @@
+4
+CX001
+Nguyen Van An
+45 150000
+CX003
+Tran Thi Binh
+40 200000
+CX002
+Le Hoang Long
+30 100000
+CX004
+Phan Minh Tam
+40 200000
