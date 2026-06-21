@@ -1,0 +1,6 @@
+Danh Sach Sinh Vien 
+| STT   | Ma Sinh Vien | Ho Va Ten                      | Diem Toan    | Diem Ly      | Diem Hoa     | Diem TB      |
+| 1     | UTC25002     | Le Thi Mai                     | 9.00         | 8.50         | 8.50         | 8.67         |
+| 2     | UTC25004     | Tran Quoc Bao                  | 9.50         | 8.00         | 8.50         | 8.67         |
+| 3     | UTC25001     | Bui Tuan Anh                   | 8.50         | 7.00         | 9.00         | 8.17         |
+| 4     | UTC25003     | Nguyen Van Hai                 | 7.00         | 6.50         | 8.00         | 7.17         |
