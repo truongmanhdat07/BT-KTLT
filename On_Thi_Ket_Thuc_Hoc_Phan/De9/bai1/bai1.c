@@ -16,13 +16,13 @@ int main(){
 	}
 	fscanf(f,"%d %d",&m, &n);
 	
-	float **a=(float **)malloc((m+1)*sizeof(float*));
+	float **a=(float **)malloc(m*sizeof(float*));
 	if(a==NULL){
 		printf("\nKhong the cap phat dong!");
 		return 1;
 	}
 	for(int i=0;i<m;i++){
-		a[i]=(float*)malloc((n+1)*sizeof(float));
+		a[i]=(float*)malloc(n*sizeof(float));
 		if(a[i]==NULL){
 			printf("\nKhong the cap phat bo nho!");
 			return 1;
