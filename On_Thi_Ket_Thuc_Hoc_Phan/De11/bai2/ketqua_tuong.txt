@@ -1,0 +1,7 @@
+
+| STT   | Ma Tuong     | Ten Tuong                      | Gia          | Sat Thuong   |
+| 1     | T002         | Yasuo                          | 5            | 85.00        |
+| 2     | T004         | Zed                            | 5            | 90.00        |
+| 3     | T005         | Ahri                           | 3            | 65.50        |
+| 4     | T003         | Ashe                           | 3            | 65.50        |
+| 5     | T001         | Garen                          | 1            | 55.50        |
