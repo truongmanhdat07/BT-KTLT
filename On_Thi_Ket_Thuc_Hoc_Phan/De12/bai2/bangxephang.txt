@@ -1,0 +1,6 @@
+
+| STT   | Ma Tong Mon          | Ten                            | Chien Luc    | Tuoi         |
+| 1     | VANCOTONG            | Ly Van Tieu                    | 9999.90      | 18           |
+| 2     | VANCOTONG            | Co Phi Duong                   | 9999.90      | 20           |
+| 3     | THIENDAOTONG         | Han Lap                        | 9500.50      | 250          |
+| 4     | MAQUYTONG            | Phong Nhu Yen                  | 8400.00      | 150          |
