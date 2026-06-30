@@ -1,0 +1,13 @@
+4
+LT001
+Dell XPS 15 9520
+10 40.5
+LT002
+MacBook Pro M2
+5 45.0
+LT003
+ThinkPad X1 Carbon
+15 40.5
+LT004
+Asus Zenbook 14
+8 25.5
