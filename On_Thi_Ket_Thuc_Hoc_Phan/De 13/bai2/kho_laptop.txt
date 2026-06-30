@@ -1,0 +1,6 @@
+
+| STT   | Ma         | Ten                            | So Luong     | Gia          | Tong Gia Tri    |
+| 1     | LT002      | MacBook Pro M2                 | 5            | 45.00        | 225.00          |
+| 2     | LT001      | Dell XPS 15 9520               | 10           | 40.50        | 405.00          |
+| 3     | LT003      | ThinkPad X1 Carbon             | 15           | 40.50        | 607.50          |
+| 4     | LT004      | Asus Zenbook 14                | 8            | 25.50        | 204.00          |
