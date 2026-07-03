@@ -1,0 +1,4 @@
+
+| STT   | Ten                            | Ma         | So Luong   | Gia        | CtySX      | NamSX      |
+| 1     | ip15                           | hh01       | 1          | 19.50      | A          | 2025       |
+| 2     | ip16prm                        | hh02       | 10         | 26.00      | B          | 2023       |
