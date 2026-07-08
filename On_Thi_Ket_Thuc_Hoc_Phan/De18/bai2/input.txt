@@ -1,0 +1,16 @@
+5
+Nguyen Van An
+8.5
+A
+Tran Thi Binh
+9.5
+B
+Le Hoang Cuong
+7.0
+C
+Nguyen Thi Dung
+9.5
+A
+Pham Van Em
+8.0
+B
