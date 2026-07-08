@@ -1,0 +1,5 @@
+
+Thi sinh co diem cao nhat la :
+| Ho Va Ten                      | Diem         | Truong       |
+| Tran Thi Binh                  | 9.50         | B            |
+| Nguyen Thi Dung                | 9.50         | A            |
