@@ -1,0 +1,7 @@
+Danh sach nhan vat sau khi sap xep la :
+| STT   | Ma         | Ten                            | He Toc          | Sat Thuong   | Toc Danh     | DPS          |
+| 1     | K001       | Vinh Nhuo Luu                  | Kiem Tu         | 1080         | 1.00         | 1080.00      |
+| 2     | K002       | Hoa Thien Thu                  | Kiem Tu         | 900          | 1.20         | 1080.00      |
+| 3     | V001       | Quan Nhu Van                   | Vo Su           | 1200         | 0.90         | 1080.00      |
+| 4     | K003       | Co Phi Duong                   | Kiem Tu         | 850          | 1.20         | 1020.00      |
+| 5     | K004       | Ly Van Tieu                    | Luyen Dan       | 800          | 1.10         | 880.00       |
