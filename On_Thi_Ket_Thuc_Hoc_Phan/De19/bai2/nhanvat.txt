@@ -1,0 +1,21 @@
+5
+K002
+Hoa Thien Thu
+Kiem Tu
+900 1.2
+V001
+Quan Nhu Van
+Vo Su
+1200 0.9
+K003
+Co Phi Duong
+Kiem Tu
+850 1.2
+K004
+Ly Van Tieu
+Luyen Dan
+800 1.1
+K001
+Vinh Nhuo Luu
+Kiem Tu
+1080 1.0
